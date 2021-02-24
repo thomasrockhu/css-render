@@ -1,0 +1,10 @@
+flags:
+  css-render:
+    paths:
+      - packages/css-render
+  plugin-bem:
+    paths:
+      - packages/plugin-bem
+  vue3-ssr:
+    paths:
+      - packages/vue3-ssr
